@@ -1,0 +1,4 @@
+site_name: techcobweb home
+nav:
+    - Home: index.md
+    - Recipies: recipies/index.md
